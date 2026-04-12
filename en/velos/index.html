@@ -3,18 +3,26 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Search — Cycling Paris</title>
-    <meta name="description" content="Search articles on Cycling Paris">
-    <link rel="canonical" href="https://locations-velo-paris.com/en/search/">
+    <title>Bikes — Cycling Paris</title>
+    <meta name="description" content="">
+    <link rel="canonical" href="https://locations-velo-paris.com/en/velos/">
 
     <!-- hreflang — bilingual FR/EN -->
     
+    
+    <link rel="alternate" hreflang="en" href="https://locations-velo-paris.com/en/velos/">
+    
+    <link rel="alternate" hreflang="fr" href="https://locations-velo-paris.com/velos/">
+    
+    <link rel="alternate" hreflang="x-default" href="https://locations-velo-paris.com/velos/">
+    
+    
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Search — Cycling Paris">
-    <meta property="og:description" content="Search articles on Cycling Paris">
+    <meta property="og:title" content="Bikes — Cycling Paris">
+    <meta property="og:description" content="">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://locations-velo-paris.com/en/search/">
+    <meta property="og:url" content="https://locations-velo-paris.com/en/velos/">
     <meta property="og:locale" content="en_GB">
     <meta property="og:locale:alternate" content="fr_FR">
 
@@ -23,6 +31,12 @@
     <link rel="alternate" type="application/atom+xml" title="Locations Vélo Paris (FR)" href="/feed.xml">
 
     <!-- JSON-LD -->
+    
+    
+    
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Cycling Paris", "item": "https://locations-velo-paris.com/en/"}, {"@type": "ListItem", "position": 2, "name": "Bikes", "item": "https://locations-velo-paris.com/en/velos/"}]}</script>
+    
+    
     
 
     <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
@@ -56,7 +70,9 @@
                 <li><a href="/en/feed.xml" title="RSS Feed">RSS</a></li>
                 <li class="lang-switch">
                     
-                    <a href="/" hreflang="fr" title="Lire en français">🇫🇷 FR</a>
+                    
+                    <a href="https://locations-velo-paris.com/velos/" hreflang="fr" title="Lire en français">🇫🇷 FR</a>
+                    
                     
                 </li>
             </ul>
@@ -73,7 +89,7 @@
             
             
             
-            <span>Search</span>
+            <span>Bikes</span>
             
             
         </nav>
@@ -81,17 +97,50 @@
 
         
 <header class="page-header">
-    <h1>Search</h1>
+    <h1>Bikes</h1>
+    
 </header>
 
-<div class="search-page">
-    <input type="search" id="search-input" placeholder="Search articles..." autofocus autocomplete="off">
-    <p id="search-count" class="search-count"></p>
-    <div id="search-results" class="card-grid"></div>
+
+<div class="card-grid">
+    
+    <article class="card">
+        <picture><source media="(max-width: 768px)" srcset="/static/images/vae-cargo-paris-rue-400w.webp" type="image/webp"><source srcset="/static/images/vae-cargo-paris-rue-800w.webp 800w, /static/images/vae-cargo-paris-rue.webp 2000w" sizes="300px" type="image/webp"><img class="card-img" src="/static/images/vae-cargo-paris-rue.jpg" alt="" loading="eager" fetchpriority="high"></picture>
+        <div class="card-body">
+            <h3><a href="/en/velos/electric-bikes-in-paris-what-really-changes/">Electric Bikes in Paris: What Really Changes</a></h3>
+            <p>The e-bike is neither a gadget nor a miracle solution — but it genuinely changes cycling in Paris. An honest look at real-world range, total cost, and the models that deliver on their promises.</p>
+            
+            <time datetime="2025-02-12">12 February 2025</time>
+            
+        </div>
+    </article>
+    
+    <article class="card">
+        <picture><source media="(max-width: 768px)" srcset="/static/images/velo-cargo-paris-rue-400w.webp" type="image/webp"><source srcset="/static/images/velo-cargo-paris-rue.webp 2000w" sizes="300px" type="image/webp"><img class="card-img" src="/static/images/velo-cargo-paris-rue.jpg" alt="" loading="eager" fetchpriority="high"></picture>
+        <div class="card-body">
+            <h3><a href="/en/velos/cargo-bike-hire-in-paris-the-complete-2025-guide/">Cargo Bike Hire in Paris: The Complete 2025 Guide</a></h3>
+            <p>Thinking of hiring a cargo bike in Paris before you buy? Good idea — but you need to know where to go, what to pay and what questions to ask. The complete 2025 guide to cargo hire in the capital.</p>
+            
+            <time datetime="2025-02-10">10 February 2025</time>
+            
+        </div>
+    </article>
+    
+    <article class="card">
+        <picture><source media="(max-width: 768px)" srcset="/static/images/velo-cargo-biporteur-paris-400w.webp" type="image/webp"><source srcset="/static/images/velo-cargo-biporteur-paris-800w.webp 800w, /static/images/velo-cargo-biporteur-paris.webp 2000w" sizes="300px" type="image/webp"><img class="card-img" src="/static/images/velo-cargo-biporteur-paris.jpg" alt="" loading="eager" fetchpriority="high"></picture>
+        <div class="card-body">
+            <h3><a href="/en/velos/cargo-bike-in-paris-bakfiets-tricycle-or-longtail/">Cargo Bike in Paris: Bakfiets, Tricycle or Longtail?</a></h3>
+            <p>Bakfiets, tricycle or longtail: which cargo bike suits Paris life? Sophie K. compares all three types by profile — family, solo, or weekly shop — with real figures and the all-important lift question.</p>
+            
+            <time datetime="2025-02-08">8 February 2025</time>
+            
+        </div>
+    </article>
+    
 </div>
 
-<script src="/static/js/fuse.min.js"></script>
-<script src="/static/js/search.js"></script>
+
+
 
     </main>
 
