@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cycling Paris</title>
+  <link href="https://locations-velo-paris.com/en/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://locations-velo-paris.com/en/" rel="alternate" type="text/html"/>
+  <id>https://locations-velo-paris.com/en/</id>
+  <author>
+    <name>Cycling Paris</name>
+  </author>
+  <subtitle>Five views on cycling in Paris: routes, hidden spots, cargo bikes, gear picks and road journals — from family adventures to filmmaker rides</subtitle>
+</feed>
