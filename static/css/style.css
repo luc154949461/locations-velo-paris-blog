@@ -397,6 +397,24 @@ footer ul li a:hover { color: #fff; text-decoration: none; }
     .footer-inner { padding: 2rem 1rem 1rem; }
 }
 
+/* ── PROMO BANNER ── */
+.promo-banner {
+    display: block;
+    max-width: var(--content-w);
+    margin: 0 auto;
+    padding: 0 2rem;
+    text-decoration: none;
+}
+.promo-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: none;
+    transition: opacity 0.2s;
+}
+.promo-banner:hover img { opacity: 0.92; }
+@media (max-width: 768px) { .promo-banner { padding: 0 1rem; } }
+
 /* ── POI / liens internes ── */
 .page-header { background: var(--c-hero-bg); color: var(--c-hero-text); padding: 2.5rem 2rem; margin-bottom: 0; }
 .page-header h1 { font-size: clamp(1.4rem, 3vw, 2rem); font-weight: 700; line-height: 1.2; }
