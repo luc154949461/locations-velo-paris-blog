@@ -4,11 +4,19 @@
   <link href="https://locations-velo-paris.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://locations-velo-paris.com/" rel="alternate" type="text/html"/>
   <id>https://locations-velo-paris.com/</id>
-  <updated>2026-03-23</updated>
+  <updated>2026-04-14</updated>
   <author>
     <name>Locations Vélo Paris</name>
   </author>
   <subtitle>Cinq regards sur Paris à vélo : itinéraires, spots secrets, vélos cargo, sélections et carnets de route — de l'aventure famille au film sur deux roues</subtitle>
+  <entry>
+    <title>Vélab : notre test famille — location de vélos livrés à l hotel pour un week-end parisien</title>
+    <link href="https://locations-velo-paris.com/famille/velab-notre-test-famille-location-de-velos-livres-a-l-hotel-pour-un-week-end-parisien/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/famille/velab-notre-test-famille-location-de-velos-livres-a-l-hotel-pour-un-week-end-parisien/</id>
+    <published>2026-04-14</published>
+    <updated>2026-04-14</updated>
+    <summary>Un week-end à Paris en famille de quatre, avec des vélos Vélab livrés directement à l'hôtel. Du coup de fil à la livraison, des itinéraires conseillés aux sourires des enfants sur le Canal Saint-Martin : le vrai test, sans filtre.</summary>
+  </entry>
   <entry>
     <title>Notre verdict : cargo ou remorque pour votre famille parisienne ?</title>
     <link href="https://locations-velo-paris.com/famille/notre-verdict-cargo-ou-remorque-pour-votre-famille-parisienne/" rel="alternate" type="text/html"/>
@@ -160,13 +168,5 @@
     <published>2025-02-08</published>
     <updated>2025-02-08</updated>
     <summary>Biporteur, triporteur ou longtail : lequel choisir pour Paris ? Sophie K. compare les trois familles de vélos cargo selon votre profil — famille, solo ou courses — avec les vrais chiffres et la question de l'ascenseur.</summary>
-  </entry>
-  <entry>
-    <title>Paris par les quais : rive gauche de Saint-Cloud à Bercy</title>
-    <link href="https://locations-velo-paris.com/itineraires/paris-par-les-quais-rive-gauche-de-saint-cloud-a-bercy/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/itineraires/paris-par-les-quais-rive-gauche-de-saint-cloud-a-bercy/</id>
-    <published>2025-02-05</published>
-    <updated>2025-02-05</updated>
-    <summary>De Saint-Cloud à Bercy, la rive gauche de la Seine offre 20 kilomètres de berges basses quasi continues — l'itinéraire cyclable le plus fluide de Paris. Tronçons praticables, passages sous les ponts, foule du dimanche et meilleurs créneaux horaires : tout ce qu'il faut savoir avant de partir.</summary>
   </entry>
 </feed>
