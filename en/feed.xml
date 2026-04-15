@@ -4,11 +4,51 @@
   <link href="https://locations-velo-paris.com/en/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://locations-velo-paris.com/en/" rel="alternate" type="text/html"/>
   <id>https://locations-velo-paris.com/en/</id>
-  <updated>2026-04-12</updated>
+  <updated>2026-04-15T22:04:23.231557+00:00</updated>
   <author>
     <name>Cycling Paris</name>
   </author>
   <subtitle>Five views on cycling in Paris: routes, hidden spots, cargo bikes, gear picks and road journals — from family adventures to filmmaker rides</subtitle>
+  <entry>
+    <title>Vélab: our family test — bikes delivered to the hotel for a Parisian weekend</title>
+    <link href="https://locations-velo-paris.com/en/ou-louer/velab-our-family-test-bikes-delivered-to-the-hotel-for-a-parisian-weekend/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/ou-louer/velab-our-family-test-bikes-delivered-to-the-hotel-for-a-parisian-weekend/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-15T22:04:23.231557+00:00</updated>
+    <summary>A weekend in Paris with a family of four, bikes from Vélab delivered straight to the hotel. From the phone call to the delivery, from the route tips to the children's smiles along the Canal Saint-Martin: the real, unfiltered test.</summary>
+  </entry>
+  <entry>
+    <title>Teaching Children to Cycle in Paris: From Balance Bike to the First Family Ride</title>
+    <link href="https://locations-velo-paris.com/en/famille/teaching-children-to-cycle-in-paris-from-balance-bike-to-the-first-family-ride/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/famille/teaching-children-to-cycle-in-paris-from-balance-bike-to-the-first-family-ride/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>From balance bike to first independent rides, Henri D. offers a step-by-step guide by age group for Parisian families. The best parks and safe circuits, teaching methods, and how to prepare the first big family cycling outing.</summary>
+  </entry>
+  <entry>
+    <title>Helmet, Lock, Lights: Essential Cycling Equipment in Paris (and What's Actually Worth Buying Too)</title>
+    <link href="https://locations-velo-paris.com/en/pratique/helmet-lock-lights-essential-cycling-equipment-in-paris-and-what-s-actually-worth-buying-too/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/pratique/helmet-lock-lights-essential-cycling-equipment-in-paris-and-what-s-actually-worth-buying-too/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>Helmets are only compulsory for under-12s, lights are required at night, and there's no legal requirement for a lock — Sophie K. cuts through the confusion around French cycling law and reviews the equipment that genuinely makes a difference, with budgets for every rider profile.</summary>
+  </entry>
+  <entry>
+    <title>Spring Light: Cycling Paris at Golden Hour</title>
+    <link href="https://locations-velo-paris.com/en/chroniques/spring-light-cycling-paris-at-golden-hour/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/chroniques/spring-light-cycling-paris-at-golden-hour/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>Paris in spring reserves its finest moments for cyclists who rise early or venture out at golden hour. Five themed rides to capture raking light on the Seine, in Montmartre and the Marais, with tips on filming from the bike.</summary>
+  </entry>
+  <entry>
+    <title>Cycling and Public Transport: The Complete Guide to Intermodal Travel in Paris</title>
+    <link href="https://locations-velo-paris.com/en/pratique/cycling-and-public-transport-the-complete-guide-to-intermodal-travel-in-paris/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/pratique/cycling-and-public-transport-the-complete-guide-to-intermodal-travel-in-paris/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>Metro, RER, Transilien, Vélib' and Véligo: combined intelligently, they make Paris one of Europe's most cycle-friendly cities for long commutes. Sophie K. maps out every option for combining cycling with public transport in the French capital.</summary>
+  </entry>
   <entry>
     <title>Front-loader vs Longtail: the Paris Daily Life Showdown</title>
     <link href="https://locations-velo-paris.com/en/velos/front-loader-vs-longtail-the-paris-daily-life-showdown/" rel="alternate" type="text/html"/>
@@ -128,45 +168,5 @@
     <published>2025-03-01</published>
     <updated>2025-03-01</updated>
     <summary>Racks too narrow, unusable cellars, insurance that rarely pays out: the reality of cargo bike parking in Paris in 2025. Six months of trial and error to find what actually works.</summary>
-  </entry>
-  <entry>
-    <title>Weekly Grocery Runs by Cargo Bike: Organisation and Equipment</title>
-    <link href="https://locations-velo-paris.com/en/famille/weekly-grocery-runs-by-cargo-bike-organisation-and-equipment/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/famille/weekly-grocery-runs-by-cargo-bike-organisation-and-equipment/</id>
-    <published>2025-02-24</published>
-    <updated>2025-02-24</updated>
-    <summary>Eighteen months of replacing the car with a cargo bike for the family shop. What really works, what doesn't, and how to organise weekly shopping for four with a longtail or front-loader.</summary>
-  </entry>
-  <entry>
-    <title>A Family Weekend by Cargo Bike: Paris to Auvers-sur-Oise</title>
-    <link href="https://locations-velo-paris.com/en/famille/a-family-weekend-by-cargo-bike-paris-to-auvers-sur-oise/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/famille/a-family-weekend-by-cargo-bike-paris-to-auvers-sur-oise/</id>
-    <published>2025-02-22</published>
-    <updated>2025-02-22</updated>
-    <summary>Paris to Auvers-sur-Oise by family cargo bike: sixty kilometres of canal towpath, open plain, and Van Gogh light. A weekend account with children, bike-friendly addresses, and everything you need to know about the train home.</summary>
-  </entry>
-  <entry>
-    <title>Our First Cargo Bike Ride with the Kids: What We Wish We'd Known</title>
-    <link href="https://locations-velo-paris.com/en/famille/our-first-cargo-bike-ride-with-the-kids-what-we-wish-we-d-known/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/famille/our-first-cargo-bike-ride-with-the-kids-what-we-wish-we-d-known/</id>
-    <published>2025-02-19</published>
-    <updated>2025-02-19</updated>
-    <summary>Our first cargo bike ride with Emma (4) and Théo (2): the mistakes we made, what worked well, and everything we wished we'd known. An honest account.</summary>
-  </entry>
-  <entry>
-    <title>Fixing Your Bike in Paris: Participatory Repair Workshops and Trusted Mechanics</title>
-    <link href="https://locations-velo-paris.com/en/spots/fixing-your-bike-in-paris-participatory-repair-workshops-and-trusted-mechanics/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/spots/fixing-your-bike-in-paris-participatory-repair-workshops-and-trusted-mechanics/</id>
-    <published>2025-02-17</published>
-    <updated>2025-02-17</updated>
-    <summary>Paris is full of participatory workshops where you can learn to fix your own bike, as well as trusted independent mechanics by neighbourhood. Punctures, cargo bikes, rare parts: a complete guide.</summary>
-  </entry>
-  <entry>
-    <title>The Best Parisian Cycling Routes Nobody Talks About</title>
-    <link href="https://locations-velo-paris.com/en/spots/the-best-parisian-cycling-routes-nobody-talks-about/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/spots/the-best-parisian-cycling-routes-nobody-talks-about/</id>
-    <published>2025-02-15</published>
-    <updated>2025-02-15</updated>
-    <summary>Paris hides exceptional cycle routes that even regular cyclists overlook. From the deserted Boulevard Mortier to the nocturnal charm of Rue de Charenton, Marco shares five gems that took years to uncover.</summary>
   </entry>
 </feed>

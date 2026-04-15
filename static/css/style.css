@@ -50,7 +50,7 @@ a:hover { color: var(--c-accent-hover); text-decoration: underline; }
 img { max-width: 100%; height: auto; display: block; }
 
 /* ─── HEADER ─── */
-header {
+body > header {
     background: var(--c-surface);
     border-bottom: 3px solid var(--c-ochre);
     position: sticky;
