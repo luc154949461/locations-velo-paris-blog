@@ -4,11 +4,43 @@
   <link href="https://locations-velo-paris.com/en/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://locations-velo-paris.com/en/" rel="alternate" type="text/html"/>
   <id>https://locations-velo-paris.com/en/</id>
-  <updated>2026-03-23</updated>
+  <updated>2026-04-12</updated>
   <author>
     <name>Cycling Paris</name>
   </author>
   <subtitle>Five views on cycling in Paris: routes, hidden spots, cargo bikes, gear picks and road journals — from family adventures to filmmaker rides</subtitle>
+  <entry>
+    <title>Front-loader vs Longtail: the Paris Daily Life Showdown</title>
+    <link href="https://locations-velo-paris.com/en/velos/front-loader-vs-longtail-the-paris-daily-life-showdown/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/velos/front-loader-vs-longtail-the-paris-daily-life-showdown/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>Front-loader or longtail for getting around Paris with children and shopping? A detailed comparison across 8 criteria — agility, payload, price, parking, safety — with testimonials from Parisian families and a recommendation table by usage profile.</summary>
+  </entry>
+  <entry>
+    <title>Cycling and Picnicking: the 8 Most Bike-Friendly Lawns in Paris</title>
+    <link href="https://locations-velo-paris.com/en/spots/cycling-and-picnicking-the-8-most-bike-friendly-lawns-in-paris/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/spots/cycling-and-picnicking-the-8-most-bike-friendly-lawns-in-paris/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>Paris has dozens of lawns, but which ones are truly accessible by bike, with cycle parking and space to spread out? A rundown of the 8 best spots, from Vincennes to Saint-Cloud, with a comparison table, food tips and recommendations for families with cargo bikes.</summary>
+  </entry>
+  <entry>
+    <title>Cycling the Bièvre: Tracing Paris's Phantom River</title>
+    <link href="https://locations-velo-paris.com/en/itineraires/cycling-the-bievre-tracing-paris-s-phantom-river/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/itineraires/cycling-the-bievre-tracing-paris-s-phantom-river/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>The Bièvre was buried under Paris in 1912, but its course still exists. From the boulevard de l'Hôpital to Jouy-en-Josas, this 28-kilometre route traces the phantom river through the history of tanners, dyers and mills, following a waterway that is slowly coming back to life.</summary>
+  </entry>
+  <entry>
+    <title>Cycling the Ourcq Canal: from La Villette to the Meaux Locks</title>
+    <link href="https://locations-velo-paris.com/en/itineraires/cycling-the-ourcq-canal-from-la-villette-to-the-meaux-locks/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/en/itineraires/cycling-the-ourcq-canal-from-la-villette-to-the-meaux-locks/</id>
+    <published>2026-04-12</published>
+    <updated>2026-04-12</updated>
+    <summary>From La Villette to the Meaux locks, the Ourcq Canal offers 62 kilometres of almost unbroken cycle path, free of traffic and nearly flat. A little-known and magnificent route heading east from Paris, through waterside bars, industrial heritage sites and the wet meadows of Seine-et-Marne.</summary>
+  </entry>
   <entry>
     <title>Our verdict: cargo bike or trailer for your Parisian family?</title>
     <link href="https://locations-velo-paris.com/en/famille/our-verdict-cargo-bike-or-trailer-for-your-parisian-family/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2025-02-15</published>
     <updated>2025-02-15</updated>
     <summary>Paris hides exceptional cycle routes that even regular cyclists overlook. From the deserted Boulevard Mortier to the nocturnal charm of Rue de Charenton, Marco shares five gems that took years to uncover.</summary>
-  </entry>
-  <entry>
-    <title>Electric Bikes in Paris: What Really Changes</title>
-    <link href="https://locations-velo-paris.com/en/velos/electric-bikes-in-paris-what-really-changes/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/velos/electric-bikes-in-paris-what-really-changes/</id>
-    <published>2025-02-12</published>
-    <updated>2025-02-12</updated>
-    <summary>The e-bike is neither a gadget nor a miracle solution — but it genuinely changes cycling in Paris. An honest look at real-world range, total cost, and the models that deliver on their promises.</summary>
-  </entry>
-  <entry>
-    <title>Cargo Bike Hire in Paris: The Complete 2025 Guide</title>
-    <link href="https://locations-velo-paris.com/en/velos/cargo-bike-hire-in-paris-the-complete-2025-guide/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/velos/cargo-bike-hire-in-paris-the-complete-2025-guide/</id>
-    <published>2025-02-10</published>
-    <updated>2025-02-10</updated>
-    <summary>Thinking of hiring a cargo bike in Paris before you buy? Good idea — but you need to know where to go, what to pay and what questions to ask. The complete 2025 guide to cargo hire in the capital.</summary>
-  </entry>
-  <entry>
-    <title>Cargo Bike in Paris: Bakfiets, Tricycle or Longtail?</title>
-    <link href="https://locations-velo-paris.com/en/velos/cargo-bike-in-paris-bakfiets-tricycle-or-longtail/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/velos/cargo-bike-in-paris-bakfiets-tricycle-or-longtail/</id>
-    <published>2025-02-08</published>
-    <updated>2025-02-08</updated>
-    <summary>Bakfiets, tricycle or longtail: which cargo bike suits Paris life? Sophie K. compares all three types by profile — family, solo, or weekly shop — with real figures and the all-important lift question.</summary>
-  </entry>
-  <entry>
-    <title>Paris Along the Seine: Left Bank from Saint-Cloud to Bercy</title>
-    <link href="https://locations-velo-paris.com/en/itineraires/paris-along-the-seine-left-bank-from-saint-cloud-to-bercy/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/en/itineraires/paris-along-the-seine-left-bank-from-saint-cloud-to-bercy/</id>
-    <published>2025-02-05</published>
-    <updated>2025-02-05</updated>
-    <summary>From Saint-Cloud to Bercy, the left bank of the Seine offers 20 kilometres of near-continuous lower riverbank cycling — Paris's smoothest cycle route. Everything you need to know before setting off.</summary>
   </entry>
 </feed>

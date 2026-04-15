@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://locations-velo-paris.com/en/velos/front-loader-vs-longtail-the-paris-daily-life-showdown/</loc>
+    <lastmod>2026-04-12</lastmod>
+  </url>
+  <url>
+    <loc>https://locations-velo-paris.com/en/spots/cycling-and-picnicking-the-8-most-bike-friendly-lawns-in-paris/</loc>
+    <lastmod>2026-04-12</lastmod>
+  </url>
+  <url>
+    <loc>https://locations-velo-paris.com/en/itineraires/cycling-the-bievre-tracing-paris-s-phantom-river/</loc>
+    <lastmod>2026-04-12</lastmod>
+  </url>
+  <url>
+    <loc>https://locations-velo-paris.com/en/itineraires/cycling-the-ourcq-canal-from-la-villette-to-the-meaux-locks/</loc>
+    <lastmod>2026-04-12</lastmod>
+  </url>
+  <url>
     <loc>https://locations-velo-paris.com/en/famille/our-verdict-cargo-bike-or-trailer-for-your-parisian-family/</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -90,15 +106,15 @@
   </url>
   <url>
     <loc>https://locations-velo-paris.com/en/itineraires/</loc>
-    <lastmod>2025-02-05</lastmod>
+    <lastmod>2026-04-12</lastmod>
   </url>
   <url>
     <loc>https://locations-velo-paris.com/en/velos/</loc>
-    <lastmod>2025-02-12</lastmod>
+    <lastmod>2026-04-12</lastmod>
   </url>
   <url>
     <loc>https://locations-velo-paris.com/en/spots/</loc>
-    <lastmod>2025-02-17</lastmod>
+    <lastmod>2026-04-12</lastmod>
   </url>
   <url>
     <loc>https://locations-velo-paris.com/en/famille/</loc>
@@ -114,6 +130,6 @@
   </url>
   <url>
     <loc>https://locations-velo-paris.com/en/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-04-12</lastmod>
   </url>
 </urlset>
