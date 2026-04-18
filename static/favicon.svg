@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#1a56db"/>
+  <!-- Bicycle wheels -->
+  <circle cx="9" cy="21" r="6" fill="none" stroke="#c5f20a" stroke-width="1.5"/>
+  <circle cx="23" cy="21" r="6" fill="none" stroke="#c5f20a" stroke-width="1.5"/>
+  <!-- Bicycle frame -->
+  <polyline points="9,21 14,12 20,12 23,21" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="14" y1="12" x2="16" y2="21" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Handlebar -->
+  <line x1="19" y1="12" x2="23" y2="11" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Seat -->
+  <line x1="14" y1="12" x2="11" y2="11" stroke="#ffffff" stroke-width="1.5"/>
+</svg>
