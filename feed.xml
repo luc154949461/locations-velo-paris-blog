@@ -4,11 +4,43 @@
   <link href="https://locations-velo-paris.com/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://locations-velo-paris.com/" rel="alternate" type="text/html"/>
   <id>https://locations-velo-paris.com/</id>
-  <updated>2026-04-13</updated>
+  <updated>2026-04-30</updated>
   <author>
     <name>Locations Vélo Paris</name>
   </author>
   <subtitle>Cinq regards sur Paris à vélo : itinéraires, spots secrets, vélos cargo, sélections et carnets de route — de l'aventure famille au film sur deux roues</subtitle>
+  <entry>
+    <title>Vélo in Paris 2026 : ce qu'on a vu, testé et aimé au festival du Parc Floral</title>
+    <link href="https://locations-velo-paris.com/chroniques/velo-in-paris-2026-ce-qu-on-a-vu-teste-et-aime-au-festival-du-parc-floral/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/chroniques/velo-in-paris-2026-ce-qu-on-a-vu-teste-et-aime-au-festival-du-parc-floral/</id>
+    <published>2026-04-30</published>
+    <updated>2026-04-30</updated>
+    <summary>Paris s'est engagée à créer 130 000 nouvelles places de stationnement vélo d'ici 2026. Arceaux, box sécurisés, locaux dans les immeubles : découvrez où trouver une place, quelles applis utiliser, et comment protéger efficacement votre vélo contre le vol.</summary>
+  </entry>
+  <entry>
+    <title>Doubles sens cyclables : 390 km de rues ouvertes aux vélos dans les deux sens — mode d'emploi</title>
+    <link href="https://locations-velo-paris.com/pratique/doubles-sens-cyclables-390-km-de-rues-ouvertes-aux-velos-dans-les-deux-sens-mode-d-emploi/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/pratique/doubles-sens-cyclables-390-km-de-rues-ouvertes-aux-velos-dans-les-deux-sens-mode-d-emploi/</id>
+    <published>2026-04-29</published>
+    <updated>2026-04-29</updated>
+    <summary>Compte-rendu de la 6ᵉ édition de Vélo in Paris au Parc Floral de Vincennes (24-26 avril 2026) : 132 marques, 450 vélos testés, conférences, animations et nos coups de cœur — tout ce qu'il faut savoir sur le festival incontournable des cyclistes parisiens.</summary>
+  </entry>
+  <entry>
+    <title>Stationner son vélo à Paris en 2026 : 130 000 nouvelles places, mais où sont-elles ?</title>
+    <link href="https://locations-velo-paris.com/pratique/stationner-son-velo-a-paris-en-2026-130-000-nouvelles-places-mais-ou-sont-elles/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/pratique/stationner-son-velo-a-paris-en-2026-130-000-nouvelles-places-mais-ou-sont-elles/</id>
+    <published>2026-04-28</published>
+    <updated>2026-04-28</updated>
+    <summary>Paris dispose de 390 km de doubles sens cyclables permettant aux vélos de remonter les sens interdits automobiles. Signalisation, règles à respecter, applications pour les trouver : tout ce qu'il faut savoir pour exploiter ce réseau méconnu et raccourcir vos trajets à vélo dans la capitale.</summary>
+  </entry>
+  <entry>
+    <title>Les 10 nouvelles pistes cyclables de 2026 qui changent tout pour les cyclistes à Paris</title>
+    <link href="https://locations-velo-paris.com/pratique/les-10-nouvelles-pistes-cyclables-de-2026-qui-changent-tout-pour-les-cyclistes-a-paris/" rel="alternate" type="text/html"/>
+    <id>https://locations-velo-paris.com/pratique/les-10-nouvelles-pistes-cyclables-de-2026-qui-changent-tout-pour-les-cyclistes-a-paris/</id>
+    <published>2026-04-27</published>
+    <updated>2026-04-27</updated>
+    <summary>Paris inaugure en 2026 les fruits de son Plan Vélo 2021-2026 : 10 nouvelles pistes cyclables majeures qui transforment la mobilité douce dans la capitale. De la piste Paul Varry au cœur du 2e à la rue des Pyrénées dans le 20e, découvrez les axes qui changent vraiment la vie des cyclistes parisiens.</summary>
+  </entry>
   <entry>
     <title>Vélab : notre test famille — location de vélos livrés à l hotel pour un week-end parisien</title>
     <link href="https://locations-velo-paris.com/ou-louer/velab-notre-test-famille-location-de-velos-livres-a-l-hotel-pour-un-week-end-parisien/" rel="alternate" type="text/html"/>
@@ -136,37 +168,5 @@
     <published>2026-02-09</published>
     <updated>2026-02-09</updated>
     <summary>Avant de comparer les modèles, il faut poser les bonnes questions : combien d'enfants, quel relief, quel budget réel, où le stocker ? Un guide méthodique signé Zoé M. pour choisir entre cargo et remorque avec lucidité — et sans se tromper.</summary>
-  </entry>
-  <entry>
-    <title>Paris vu du guidon : ce que le vélo nous a appris sur notre ville</title>
-    <link href="https://locations-velo-paris.com/chroniques/paris-vu-du-guidon-ce-que-le-velo-nous-a-appris-sur-notre-ville/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/chroniques/paris-vu-du-guidon-ce-que-le-velo-nous-a-appris-sur-notre-ville/</id>
-    <published>2025-03-05</published>
-    <updated>2025-03-05</updated>
-    <summary>Cinq cyclistes d'horizons différents ont parcouru Paris à vélo pendant des mois. Voici ce qu'ils ont découvert : une géographie sociale inscrite dans le bitume, une ville la nuit qui n'appartient qu'aux roues, et des saisons qui changent tout.</summary>
-  </entry>
-  <entry>
-    <title>Six mois sans voiture : ce que ça a vraiment changé</title>
-    <link href="https://locations-velo-paris.com/chroniques/six-mois-sans-voiture-ce-que-ca-a-vraiment-change/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/chroniques/six-mois-sans-voiture-ce-que-ca-a-vraiment-change/</id>
-    <published>2025-03-04</published>
-    <updated>2025-03-04</updated>
-    <summary>Six mois après avoir vendu notre voiture, le bilan est sans appel : 150 € économisés par mois, des enfants qui dorment mieux, et une ville redécouverte au guidon d'un vélo cargo. Une chronique familiale honnête, chiffres à l'appui.</summary>
-  </entry>
-  <entry>
-    <title>Filmer depuis un vélo : matériel et techniques pour le cycliste-cinéaste</title>
-    <link href="https://locations-velo-paris.com/pratique/filmer-depuis-un-velo-materiel-et-techniques-pour-le-cycliste-cineaste/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/pratique/filmer-depuis-un-velo-materiel-et-techniques-pour-le-cycliste-cineaste/</id>
-    <published>2025-03-03</published>
-    <updated>2025-03-03</updated>
-    <summary>GoPro sur le casque, Insta360 sur le guidon, montage sur CapCut : filmer depuis un vélo à Paris, ça s'apprend. Retour d'expérience de Zoé, jeune cinéaste qui documente ses trajets parisiens depuis deux ans.</summary>
-  </entry>
-  <entry>
-    <title>Stationner son vélo cargo à Paris : le guide (honnête)</title>
-    <link href="https://locations-velo-paris.com/pratique/stationner-son-velo-cargo-a-paris-le-guide-honnete/" rel="alternate" type="text/html"/>
-    <id>https://locations-velo-paris.com/pratique/stationner-son-velo-cargo-a-paris-le-guide-honnete/</id>
-    <published>2025-02-25</published>
-    <updated>2025-02-25</updated>
-    <summary>Arceaux trop étroits, caves impraticables, assurances qui couvrent rarement : voici la réalité du stationnement cargo à Paris en 2025. Six mois d'essais pour trouver ce qui marche vraiment.</summary>
   </entry>
 </feed>
